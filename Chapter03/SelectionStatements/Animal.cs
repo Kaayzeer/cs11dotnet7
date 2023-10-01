@@ -7,12 +7,12 @@
         public byte Legs;
     }
 
-    class Cat : Animal
+    internal class Cat : Animal
     {
         public bool IsDomestic;
     }
 
-    class Spider : Animal
+    internal class Spider : Animal
     {
         public bool IsPoisonous;
     }
