@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "Sele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{1F829F27-8E6A-4D0A-84D5-86EACDF4DC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{F6BD0056-2E6D-426D-9E9D-6B9F6C9B6233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{F6BD0056-2E6D-426D-9E9D-6B9F6C9B6233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{7CDB58D0-79CA-4226-808E-A0DAE38A712B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{7CDB58D0-79CA-4226-808E-A0DAE38A712B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{99ED67CD-17E8-455A-B144-02C66318D87F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7CDB58D0-79CA-4226-808E-A0DAE38A712B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CDB58D0-79CA-4226-808E-A0DAE38A712B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CDB58D0-79CA-4226-808E-A0DAE38A712B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ED67CD-17E8-455A-B144-02C66318D87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ED67CD-17E8-455A-B144-02C66318D87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ED67CD-17E8-455A-B144-02C66318D87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ED67CD-17E8-455A-B144-02C66318D87F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
