@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{7CDB58D0-79CA-4226-808E-A0DAE38A712B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{99ED67CD-17E8-455A-B144-02C66318D87F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{99ED67CD-17E8-455A-B144-02C66318D87F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingForOverflow", "CheckingForOverflow\CheckingForOverflow.csproj", "{DA8802EA-B503-407C-BB2A-86219D299D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckingForOverflow", "CheckingForOverflow\CheckingForOverflow.csproj", "{DA8802EA-B503-407C-BB2A-86219D299D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03Ex02LoopsAndOverflow", "Ch03Ex02LoopsAndOverflow\Ch03Ex02LoopsAndOverflow.csproj", "{2832BB08-090B-442B-98BA-E35DCDA7EC9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03Ex02LoopsAndOverflow", "Ch03Ex02LoopsAndOverflow\Ch03Ex02LoopsAndOverflow.csproj", "{2832BB08-090B-442B-98BA-E35DCDA7EC9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03Ex03FizzBuzz", "Ch03Ex03FizzBuzz\Ch03Ex03FizzBuzz.csproj", "{923639A7-B9A1-4701-80AD-362D0648A0CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03Ex03FizzBuzz", "Ch03Ex03FizzBuzz\Ch03Ex03FizzBuzz.csproj", "{923639A7-B9A1-4701-80AD-362D0648A0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingFunctions", "..\Chapter04\WritingFunctions\WritingFunctions.csproj", "{1136F3BC-0760-4113-8542-AE55D4C0915D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{923639A7-B9A1-4701-80AD-362D0648A0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923639A7-B9A1-4701-80AD-362D0648A0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923639A7-B9A1-4701-80AD-362D0648A0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1136F3BC-0760-4113-8542-AE55D4C0915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1136F3BC-0760-4113-8542-AE55D4C0915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1136F3BC-0760-4113-8542-AE55D4C0915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1136F3BC-0760-4113-8542-AE55D4C0915D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
