@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingFunctions", "Writing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging", "Debugging\Debugging.csproj", "{8AA08AF8-52B6-4D90-981C-703B71520324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotReloading", "HotReloading\HotReloading.csproj", "{111EC302-DB5E-419E-9AE9-08F2F2100A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotReloading", "HotReloading\HotReloading.csproj", "{111EC302-DB5E-419E-9AE9-08F2F2100A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{F1498D2D-5F6F-4E22-A300-509700E5BA37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{11060027-4194-42A5-90B5-CAAF7E3818EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{111EC302-DB5E-419E-9AE9-08F2F2100A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{111EC302-DB5E-419E-9AE9-08F2F2100A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{111EC302-DB5E-419E-9AE9-08F2F2100A7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1498D2D-5F6F-4E22-A300-509700E5BA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1498D2D-5F6F-4E22-A300-509700E5BA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1498D2D-5F6F-4E22-A300-509700E5BA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1498D2D-5F6F-4E22-A300-509700E5BA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11060027-4194-42A5-90B5-CAAF7E3818EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11060027-4194-42A5-90B5-CAAF7E3818EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11060027-4194-42A5-90B5-CAAF7E3818EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11060027-4194-42A5-90B5-CAAF7E3818EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
